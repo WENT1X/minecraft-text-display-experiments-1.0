@@ -1,10 +1,4 @@
 # Text Display Experiments
-## Introduction
-This plugin showcases unusual ways to use Minecraft's text display entities.
-
-It was made as part of a video: https://youtu.be/uZmEYYs0ZKs
-
-This plugin is very experimental and untested in multiplayer. Use at your own risk.
 
 
 
